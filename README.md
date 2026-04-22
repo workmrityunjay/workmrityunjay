@@ -14,10 +14,17 @@
 
 ✉️ You can contact me at workmrityunjay@gmail.com
 
-<p align="left"> Languages and Tools
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github&theme=light" />
-</p>
+  
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+
 My GitHub Stats
 
 <p align="center">
